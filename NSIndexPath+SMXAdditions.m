@@ -1,13 +1,13 @@
 //
-//  NSIndexPath+SMAdditions.m
+//  NSIndexPath+SMXAdditions.m
 //
 //  Created by Simon Maddox on 25/10/2011.
 //  Copyright (c) 2011 Simon Maddox. All rights reserved.
 //
 
-#import "NSIndexPath+SMAdditions.h"
+#import "NSIndexPath+SMXAdditions.h"
 
-@implementation NSIndexPath (SMAdditions)
+@implementation NSIndexPath (SMXAdditions)
 
 - (NSIndexPath *) nextRowForTableView:(UITableView *)tableView
 {
